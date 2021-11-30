@@ -1,9 +1,0 @@
-<resources>
-    <string name="app_name">four button</string>
-    <string name="strBtn1">네이버 열기</string>
-    <string name="strBtn2">전화 걸기</string>
-    <string name="strBtn3">갤러리 열기</string>
-    <string name="strBtn4">어플리케이션 종료</string>
-
-
-</resources>
